@@ -1,4 +1,4 @@
-## Here is Scenario 1:
+## Facebook register by gmail scenario:
 
 #### - Run Script:
 
